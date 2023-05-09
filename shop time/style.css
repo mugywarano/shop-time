@@ -1,0 +1,21 @@
+header{
+    background-color: rgb(241, 5, 5);
+    display:flex;
+    justify-content:space-around;
+    padding: 24px 0;
+}
+.cabeçalho-imagem{
+    width:400px;
+}
+.cabeçalho-titulo{
+    padding: 50px 0;
+    font-size: 50%;
+    font-family: Arial, Helvetica, sans-serif ;
+}
+.cabeçalho-lista-item{
+    display: inline-block;
+    padding: 0 24px;
+    margin-top: 40px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
